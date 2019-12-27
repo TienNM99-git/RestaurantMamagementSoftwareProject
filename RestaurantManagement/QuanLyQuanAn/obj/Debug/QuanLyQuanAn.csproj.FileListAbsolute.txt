@@ -1,0 +1,83 @@
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojResolveAssemblyReference.cache
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.Cache
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fCusTable.resources
+D:\SQLFinalProject\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fCusTable.resources
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fCusTable.resources
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Code Files\Third year\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fCusTable.resources
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+D:\Private\Music\USUK\Light\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fCusTable.resources
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fCusTable.resources
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fCusTable.resources
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\IT\Coding files\Code Files\Third year\RestaurantManagement\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
